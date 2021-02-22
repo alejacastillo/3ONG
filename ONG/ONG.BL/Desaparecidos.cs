@@ -9,7 +9,7 @@ namespace ONG.BL
     public class Desaparecidos
     {
 
-        public Desaparecidos()
+        public  Desaparecidos()
         {
             Activo = true;
         }
