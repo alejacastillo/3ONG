@@ -43,6 +43,7 @@ namespace ONG.BL
                 DesaparecidoExistente.Residencia = Desaparecidos.Residencia;
                 DesaparecidoExistente.Edad = Desaparecidos.Edad;
                 DesaparecidoExistente.Genero = Desaparecidos.Genero;
+                DesaparecidoExistente.Activo = Desaparecidos.Activo;
 
             }
 
